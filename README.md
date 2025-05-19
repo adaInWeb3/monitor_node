@@ -9,6 +9,7 @@ PUBLIC_RPC_URL里的https://api.mainnet-beta.solana.com 要换成私有的比如
 
 local：本地rpc节点 slot
 public: 对标的rpc节点slot
+diff：差值，-1 掉一个，+1超前一个，0 表示同步。由于网络延迟，个位数的差异都可以忽略不计。
 
 ```
 运行: ./m.sh
