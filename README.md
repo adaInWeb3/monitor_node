@@ -48,7 +48,7 @@ chmod +x m.sh
 |-----------|-------------|---------------|
 | RPC_URL | Local Solana RPC node URL | http://localhost:8899 |
 | CHECK_INTERVAL | Monitoring interval in seconds | 5 |
-| PUBLIC_RPC_URL | Public RPC node URL for comparison | https://mainnet.helius-rpc.com/?api-key=... |
+| PUBLIC_RPC_URL | Public RPC node URL for comparison | https://api.mainnet-beta.solana.com |
 
 ### Examples
 
